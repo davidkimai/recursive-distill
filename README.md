@@ -2,9 +2,10 @@
 ## [Inspired By, and Advancing, the Open Research Ethos of Distill and Chris Olah](https://claude.ai/public/artifacts/a9592e83-e49a-4dbe-9328-8e40618013fc)
 
 ```python
-Personal Note: Distill has a special place in our heart.
+Personal Note:
+Distill has a special place in our heart.
 
-It catalyzed our journey and remains one of our favorite community resources.
+It catalyzed our research journey and remains one of our favorite community resources.
 
 We are deeply saddened by its indefinite hiatus.
 

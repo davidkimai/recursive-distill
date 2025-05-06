@@ -8,7 +8,7 @@ It catalyzed our journey and remains one of our favorite community resources.
 
 We are deeply saddened by its indefinite hiatus.
 
-We would love for the Ethos of Distill to live on by advancing open research worldwide.
+We would love for the Ethos of Distill to live on in advancing open research worldwide.
 ```
 > ### Supporting authors over 5 years in publishing artifacts that push beyond the traditional expectations of scientific papers.
 > > ### *Where clarity meets recursive coherence.*

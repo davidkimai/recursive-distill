@@ -1,5 +1,5 @@
 # Recursive Distill
-## [Inspired by, and advancing, the open decentralized ethos of Distill and Chris Olah](https://github.com/davidkimai/recursive-distill/blob/main/Distill%20Hiatus.pdf)
+## [Inspired by, and advancing, the open decentralized ethos of Distill and Chris Olah](https://claude.ai/public/artifacts/a9592e83-e49a-4dbe-9328-8e40618013fc)
 > ### Supporting authors over 5 years in publishing artifacts that push beyond the traditional expectations of scientific papers.
 > > ### *Where clarity meets recursive coherence.*
 

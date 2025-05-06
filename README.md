@@ -3,6 +3,8 @@
 > ### Supporting authors over 5 years in publishing artifacts that push beyond the traditional expectations of scientific papers.
 > > ### *Where clarity meets recursive coherence.*
 
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/1ccc539b-8b1f-45c1-bbd4-0e9993758d5d" />
+
 ## About Recursive Distill
 
 **Recursive Distill** is a decentralized, self-refining publishing ecosystem for machine learning research with a commitment to clarity, interactive explanation, and recursive coherence. We are the evolutionary descendant of [Distill.pub](https://distill.pub) (currently on indefinite hiatus), preserving their core mission while embracing decentralization, emergent collaboration, and recursive improvement.

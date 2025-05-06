@@ -1356,9 +1356,3 @@ jobs:
             }
 ```
 
-## Workflow Integration and Orchestration
-
-These workflows work together to create an integrated publishing infrastructure:
-
-1. **On initial article development**:
-   - Authors create content

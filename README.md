@@ -4,7 +4,7 @@
 ```python
 Personal Note: Distill has a special place in our heart.
 
-It catalyzed our journey and was one of our favorite community resources.
+It catalyzed our journey and remains one of our favorite community resources.
 
 We are deeply saddened by its indefinite hiatus.
 

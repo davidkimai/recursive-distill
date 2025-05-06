@@ -3,6 +3,7 @@
 
 ```python
 Personal Note:
+
 Distill has a special place in our heart.
 
 It catalyzed our research journey and remains one of our favorite community resources.

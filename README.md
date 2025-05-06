@@ -3,7 +3,7 @@
 > ### Supporting authors over 5 years in publishing artifacts that push beyond the traditional expectations of scientific papers.
 > > ### *Where clarity meets recursive coherence.*
 
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/1ccc539b-8b1f-45c1-bbd4-0e9993758d5d" />
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/9fb35199-d018-417e-b9c3-f5895118df5c" />
 
 ## About Recursive Distill
 

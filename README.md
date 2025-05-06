@@ -1,5 +1,5 @@
 # Recursive Distill
-## [Inspired by, and advancing, the open decentralized ethos of Distill and Chris Olah](https://claude.ai/public/artifacts/a9592e83-e49a-4dbe-9328-8e40618013fc)
+## [Inspired By, and Advancing, the Open Research Ethos of Distill and Chris Olah](https://claude.ai/public/artifacts/a9592e83-e49a-4dbe-9328-8e40618013fc)
 
 ```python
 Personal Note: Distill has a special place in our heart.

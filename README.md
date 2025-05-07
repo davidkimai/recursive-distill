@@ -1,8 +1,6 @@
 # Recursive Distill
 ## [Inspired By, and Advancing, the Open Research Ethos of Distill and Chris Olah](https://claude.ai/public/artifacts/a9592e83-e49a-4dbe-9328-8e40618013fc)
 
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/a3b2a071-ed2d-4b81-86d4-f6eb6c5cea92" />
-
 ```python
 Personal Note:
 
